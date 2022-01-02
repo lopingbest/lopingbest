@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [//]: # (My Name is **Galih Setiadi**)
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - NodeJs
 - MYSQL
 - MongoDB
-
+-->
 ### Tech Stack
 
 <a href="https://cloud.google.com/"><img align="left" alt="GCP" title="GCP" width="21px" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" /></a>
