@@ -61,5 +61,3 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-[//]: # ([<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-%23FF0001.svg?&style=for-the-badge&logo=youtube&logoColor=white" />]&#40;https://www.youtube.com/channel/UCRKZGPS0d-JA50AeCVaekzQ&#41;)
-
